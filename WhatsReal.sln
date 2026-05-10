@@ -1,0 +1,43 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsReal.Api", "src\Api\WhatsReal.Api.csproj", "{7B8F2C1A-1F8B-4C3D-9E5A-1B2C3D4E5F6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsReal.Application", "src\Application\WhatsReal.Application.csproj", "{8C9G3D2B-2G9C-5D4E-AF6B-2C3D4E5F6G7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsReal.Domain", "src\Domain\WhatsReal.Domain.csproj", "{9D0H4E3C-3H0D-6E5F-BG7C-3D4E5F6G7H8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsReal.Infrastructure", "src\Infrastructure\WhatsReal.Infrastructure.csproj", "{0E1I5F4D-4I1E-7F6G-CH8D-4E5F6G7H8I9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsReal.Shared", "src\Shared\WhatsReal.Shared.csproj", "{1F2J6G5E-5J2F-8G7H-DI9E-5F6G7H8I9J0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8F2C1A-1F8B-4C3D-9E5A-1B2C3D4E5F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8F2C1A-1F8B-4C3D-9E5A-1B2C3D4E5F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8F2C1A-1F8B-4C3D-9E5A-1B2C3D4E5F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8F2C1A-1F8B-4C3D-9E5A-1B2C3D4E5F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9G3D2B-2G9C-5D4E-AF6B-2C3D4E5F6G7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9G3D2B-2G9C-5D4E-AF6B-2C3D4E5F6G7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9G3D2B-2G9C-5D4E-AF6B-2C3D4E5F6G7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9G3D2B-2G9C-5D4E-AF6B-2C3D4E5F6G7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0H4E3C-3H0D-6E5F-BG7C-3D4E5F6G7H8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0H4E3C-3H0D-6E5F-BG7C-3D4E5F6G7H8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0H4E3C-3H0D-6E5F-BG7C-3D4E5F6G7H8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0H4E3C-3H0D-6E5F-BG7C-3D4E5F6G7H8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1I5F4D-4I1E-7F6G-CH8D-4E5F6G7H8I9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1I5F4D-4I1E-7F6G-CH8D-4E5F6G7H8I9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1I5F4D-4I1E-7F6G-CH8D-4E5F6G7H8I9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1I5F4D-4I1E-7F6G-CH8D-4E5F6G7H8I9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2J6G5E-5J2F-8G7H-DI9E-5F6G7H8I9J0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2J6G5E-5J2F-8G7H-DI9E-5F6G7H8I9J0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2J6G5E-5J2F-8G7H-DI9E-5F6G7H8I9J0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2J6G5E-5J2F-8G7H-DI9E-5F6G7H8I9J0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
